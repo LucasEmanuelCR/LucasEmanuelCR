@@ -2,8 +2,9 @@
 
 ### Olá! Eu sou o Lucas Emanuel 👋
 
-- ⛷️ Estou trabalhando como analista de suporte
-- 👨‍💻 Estudando Java
+- 🫡 Estou trabalhando como analista de suporte.
+- 👨‍💻 Estudando Java.
+- 🎖️ Cursando Análise e Desenvolvimento de Sistemas.
 
  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=LucasEmanuelCR&show_icons=true&theme=shadow_red" />
